@@ -1,0 +1,178 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Homo_sapiens                  -------------------------------MELELDAGDQDLLAFLLEE
+Pan_troglodytes               -------------------------------MELELDAGDQDLLAFLLEE
+Macaca_mulatta                -------------------------------MELELDAGDQDLLGFLLEE
+Callithrix_jacchus            ----------------------------MSQMELELDPGDEDLLGFLLEA
+Bos_taurus                    ----------------------------MSHMELALDPGDHDLLGFLLEE
+Pteropus_alecto               MLGSPLKTIRPPRRKQGCGAIRRKRTNCVYGMELALDPDDQDLLGFLLEE
+Mus_musculus                  -------------------------MDPGGQDLLALDPGDQDLLGFLLEE
+Ornithorhynchus_anatinus      ------------------------MIMMMSSVEGPLGLGDGDLLDFLLEE
+Pavo_muticus                  ----------------------------MAGPEPLAALPDEDLLDFLLNN
+Pavo_cristatus                ----------------------------MAGPEPLAALPDEDLLDFLLNN
+Gallus_gallus                 ----------------------------MAGPEPLAALPDGDLLDFLLND
+Chelonia_mydas                ----------------------------MSCPEEVVASADDELLSFLLTD
+Microcaecilia_unicolor        ----------------------------MSISPEMVEFGDQELLEFLLEN
+Bufo_bufo                     ----------------------------MSLFGEMEEMGSPDFLDDLLDD
+                                                                     . ::*  **  
+
+Homo_sapiens                  SGDLGTAPDEAVRAPLDWALPLS----EVPSDWEVDDLLCSLLS------
+Pan_troglodytes               SGDLGTAPDEAVRAPLDWELPLS----EVPSDWEVDDLLCSLLS------
+Macaca_mulatta                SGDLRTAPDESVRAPLDWELPLS----EVPSDWEVDDLLSSLLS------
+Callithrix_jacchus            SGDLGTA-HEAIRAPLDWELLLS----EVPSDWELDDLLSSLLS------
+Bos_taurus                    SGGLGAAPDEALTSPPDWELPLS----ESLSDWDVEDFLSCLPS------
+Pteropus_alecto               SGELGAVPKEAMEAPMSWELPLS----QALSDWDIEDFLSSLQS------
+Mus_musculus                  SGDLWAATEPDVKAPLDLELSPSENSVQELSDWEVEDLLSSLLS------
+Ornithorhynchus_anatinus      -GGLEPFSGDGPAPRQDWSPLDP----EILSDQDVEDFLNLLLG------
+Pavo_muticus                  DAPAAGSPAGDSPLLGDWALPEF----ELL-DKEMDSFISLLLN-PSEDE
+Pavo_cristatus                DAPAAGSPAGDSPLLGDWALPEF----ELL-DKEMDSFISLLLN-PSEDE
+Gallus_gallus                 DAPAAGSPAGDGPLLGDWVLPEL----ELL-DKEMDSFISSLLS-PSEDE
+Chelonia_mydas                DAPCAEFSGDEANLLGDWGLLEP----ELLNDKEVEDFLSSLLS-PFEEG
+Microcaecilia_unicolor        KFSPADPLEEGVKPADDWGLQEQ----EMMGEDEIEDFLSSILA-PFEED
+Bufo_bufo                     IFPSG--SADISQGVGGWGPLDA----EAFSATVVDRFLSELLGSPLGDD
+                                              .          :      :: ::  :        
+
+Homo_sapiens                  --------PPAS-LNILSSSNP------------------------CLVH
+Pan_troglodytes               --------PPAS-LNILSSSNP------------------------CLVH
+Macaca_mulatta                --------PPASSLNVLSNSNP------------------------CLVH
+Callithrix_jacchus            --------PPAS-LNVLSSSNP------------------------CLVH
+Bos_taurus                    --------PPAV-LNVFSNSDP------------------------CLVQ
+Pteropus_alecto               --------PPAS-LSVLSNSNP------------------------CLVH
+Mus_musculus                  --------PSVS-RDVLGSSS-------------------------SSIL
+Ornithorhynchus_anatinus      --------SPGIPSHVSSDSSSSGPTSGSGRAS------PTPLQGPGSVQ
+Pavo_muticus                  PCPLQGSLPADSDSSTSEDQNLSHSSGS---------DVASSPQSSDIVQ
+Pavo_cristatus                PCPLQGSLPADSDSSTSEDQNLSHSSGS---------DVASSPQSSDIVQ
+Gallus_gallus                 PCLLQGCLPADSDSSTSEDQNPFHSSGS---------DVASSPQSSDIVQ
+Chelonia_mydas                PSALQGHSPLNSDSGISEDQNPFPSPSSWDASP--ARDLTCSPLSSDIVQ
+Microcaecilia_unicolor        SGTMQSHSPPSSDSGISDD-NSFSSPGIWDVSPPHSPKLSLSPAESDIIQ
+Bufo_bufo                     PG-----SPLASDSGISEGHAAVLSPAN---------WEPTPPDSPSFIQ
+                                      .         .                             : 
+
+Homo_sapiens                  HDHTYSLPR--------------------------ETVSMDLE-------
+Pan_troglodytes               HDHTYSLPR--------------------------ETVSMDLE-------
+Macaca_mulatta                HDHTYSLPR--------------------------EPVSMDLE-------
+Callithrix_jacchus            HDHTYSLPQ--------------------------EAVSVDLE-------
+Bos_taurus                    HDHTYSLSQ--------------------------EHVSIDLGKPEISEV
+Pteropus_alecto               HDHTYSLPQ--------------------------EHVSIDLD-------
+Mus_musculus                  HDHNYSLPQ--------------------------EHVSIDLD-------
+Ornithorhynchus_anatinus      SEHNYSLNVGLLALEEGSPAALEPGEGSPSPGPAVDDVSIDLG-------
+Pavo_muticus                  FDHNYSLHQDWP------------ALESVRSDMAEGDVSIDLETWM----
+Pavo_cristatus                FDHNYSLHQDWP------------ALESVRSDMAEGDVSIDLETWM----
+Gallus_gallus                 FDHNYSLHQDWP------------ALESVRSDMAEGDVSIDLETWM----
+Chelonia_mydas                VDHSYSLHQDRA------------VLESVRADTAEGDISIDLDMWG----
+Microcaecilia_unicolor        FDHNYSLQQDANNSD-------GIALESVRSETAEGDVFIDLEAWVPD--
+Bufo_bufo                     TEHNYSMLLEDD----------ICALQSVRSETCDGDVLIDLDVCL----
+                               :*.**:                              : :**        
+
+Homo_sapiens                  ------------------SESCRKEGT---QMTPQHMEE--------LAE
+Pan_troglodytes               ------------------SESCRKEGT---QMTPQHMEE--------LAE
+Macaca_mulatta                ------------------SESCRKEGT---QMTPQHMEE--------LAE
+Callithrix_jacchus            ------------------SESFGKEET---QMTTQHVEE--------MAE
+Bos_taurus                    WERRGLQGLTIHICPFADNESYEKERA---QMTPLRVEE--------PAD
+Pteropus_alecto               ------------------SESYGKEG----ALIPLHVEE--------PSE
+Mus_musculus                  ------------------TESFEKEGF---HVTPLPGEER-------AAE
+Ornithorhynchus_anatinus      --------------AWGIPEGSGDDGLNPGLRVSLLVEET-------PPQ
+Pavo_muticus                  -------------CLEGTNETLEQSCS---FPISVAVDAGPQLMPGSPMQ
+Pavo_cristatus                -------------CLEGTNETLEQSCS---FPISVAVDAGPQLMPGSPMQ
+Gallus_gallus                 -------------CLEGTNETLQESCS---FPVTVAVDAGPQLMPGAPMQ
+Chelonia_mydas                -------------DLGSTEETLVEEQS---FSFPVAVPMD-DFVPGTPMQ
+Microcaecilia_unicolor        -------------CPEESLTTYPEESL---SPCPVTVCME-DFTFKTPKQ
+Bufo_bufo                     ---------------EQSDLELTDPGN---LCVEDEEEEE-EEDYGCQYQ
+                                                     .                         :
+
+Homo_sapiens                  QEIARLVLTDEEKSLLEKEGLILPETLPLTKTEEQILKRVRRKIRNKRSA
+Pan_troglodytes               QEIARLVLTDEEKSLLEKEGLILPETLPLTKTEEQILKRVRRKIRNKRSA
+Macaca_mulatta                QDIVRLVLTDEEKSLLEKEGLILPETLPLTKMEEQILKRVRRKIRNKRSA
+Callithrix_jacchus            QETVRLVLTDEEKSLLEKEGLILPETLPLTKMEEQILKRVRRKIRNKRSA
+Bos_taurus                    QEIARLILTEEEKRLLEKEGLTLPGMLPLTKMEEQVLKRVRRKIRNKKSA
+Pteropus_alecto               QEMVRLILTDEEKRLLEQEGITLPGTFPLTKMEEQVLKRVRRKIRNKKSA
+Mus_musculus                  QEMSRLILTEEEKKLLEKEGLTLPSTLPLTKVEEQVLKRVRRKIRNKRAA
+Ornithorhynchus_anatinus      PASPRLILTEEEKRLLEKEGLTLPETLPLTKMEERALKHVRRKIRNKHSA
+Pavo_muticus                  SNFPELVLTEEEKQLLEKDGVSLPTCLPLTKAEERLLKKVRRKIRNKQSA
+Pavo_cristatus                SNFPELVLTEEEKQLLEKDGVSLPTCLPLTKAEERLLKKVRRKIRNKQSA
+Gallus_gallus                 SNFPELVLTEEERQLLEKDGVSLPTCLPLTKAEERLLKKVRRKIRNKQSA
+Chelonia_mydas                FGFPELILTEEEKQLLEREGVSLPSHLPLTKAEERLLKRVRRKIRNRQSA
+Microcaecilia_unicolor        YEFQELSLSEEEKRLLAKEGVVLPSVLPLTKSEERVLKRIRRKIRNKKSA
+Bufo_bufo                     S-QQGLHLTEEEARLLGKEGVSLPQHLPLTKAEERVLKRVRRKIRNKRSA
+                                   * *::**  ** ::*: **  :**** **: **::******:::*
+
+Homo_sapiens                  QESRRKKKVYVGGLESRVLKYTAQNMELQNKVQLLEEQNLSLLDQLRKLQ
+Pan_troglodytes               QESRRKKKVYVGGLESRVLKYTAQNMELQNKVQLLEEQNLSLLDQLRKLQ
+Macaca_mulatta                QESRRKKKVYVGGLESRVLKYTAQNMELQNKVQLLEEQNLSLLHQLRKLQ
+Callithrix_jacchus            QESRRKKKVYVGGLESRVLKYTAQNMELQNKVQLLEEQNLSLLDQLRKLQ
+Bos_taurus                    QESRRKKKVYVGGLESRVLKYTAQNLELQNKVQLLEEQNLSLLDQLRRLQ
+Pteropus_alecto               QESRRKKKVYVGSLESRVLKYTAQNLELQNKVQLLEEQNLSLLDQLRRLQ
+Mus_musculus                  QESRKKKKVYVVGLESRVLKYTAQNRELQNKVQRLEEQNLSLLDQLRKLQ
+Ornithorhynchus_anatinus      QESRRKKRVYVGGLESRVSVCTAQNQELQKKVQMLEKQNLSLLEQLRKLQ
+Pavo_muticus                  QDSRRRKKIYVDGLENRVAACTAQNHELQKKVQLLQKQNMSLLEQLRKLQ
+Pavo_cristatus                QDSRRRKKIYVDGLENRVAACTAQNHELQKKVQLLQKQNMSLLEQLRKLQ
+Gallus_gallus                 QDSRRRKKIYVDGLENRVAACTAQNHELQKKVQLLQKQNMSLLEQLRKLQ
+Chelonia_mydas                LDSRRRKKVYVDGLESRVVTCTAQNHELQKKVQLLQKENMSLLEQLRRLQ
+Microcaecilia_unicolor        QDSRRKKKDYVDGLENRVAACTVQNQELQKKVHLLQKQNVSLLQQLRNLQ
+Bufo_bufo                     QESRKKKKEYVDGLENRVTVCTAHNQELQKKVQQLQRQNYSLLQQLRNLQ
+                               :**::*: ** .**.**   *.:* ***:**: *:.:* ***.***.**
+
+Homo_sapiens                  AMVIEISNKTSSSSTCILVLLVSFCLLLVPAMYSSDTRGSLPAEHGVLSR
+Pan_troglodytes               AMVIEISNKTSSSSTCILVLLVSFCLLLVPAMYSSDTRGSLPAEHGVLSR
+Macaca_mulatta                AMVIEISNKTSSSSTCILVLLVSFCLLLVPAMYSSDTRGSLPAEHGVLSR
+Callithrix_jacchus            AMVIAISNKTSSSSTCVLVLLFSFCLLLVPAMYSSDTRESLPAEHGVLFR
+Bos_taurus                    AMVIQTANKASSSSTCVLVLLFSFCLLLVPAMYSSDTRGSLPAEHRVLSR
+Pteropus_alecto               AMVVQIANKTSSSSTCVLVLLFSFCLLLVPAMYSSDTRGRLPAEHGVLSR
+Mus_musculus                  AMVIEIANKTSSGSTCVLVLVFSFCLLLVPAMYSSDARGSVPAEYVVLHR
+Ornithorhynchus_anatinus      ALVTQTSTKTSSTSTCVLVLLFSFCLVLFPTIYPLGTGVQQQDFRGVLSR
+Pavo_muticus                  ALVRQSTTKTTTASTCIMVLVLSFCLILSPSLYSFGSRGPQPEFR-VLSR
+Pavo_cristatus                ALVRQSTTKTTTASTCIMVLVLSFCLILSPSLYSFGSRGPQPEFR-VLSR
+Gallus_gallus                 ALVRQSTTKTTTASTCIMVLVLSFCLILSPSLYSFGSRGPQPEFR-VLSR
+Chelonia_mydas                ALVRQSSTKTTTASTCVMVLLLSFCLVLSPSLYPLGARVQQEGFRGVLSR
+Microcaecilia_unicolor        ALVKQTTNKTTTSSTCVMVILLSFCLILFPSFYPFGSRGQQQELRGVLSR
+Bufo_bufo                     ALFSQTGAKTSSSSTCVMVLALSFCLILFPSLYPFGLNLGNGNLHGVLSR
+                              *:.     *::: ***::*: .****:* *::*. .          ** *
+
+Homo_sapiens                  QLRALPSEDPYQLELPALQSEVP---------KDSTHQWLDGSDCVLQAP
+Pan_troglodytes               QLRALPSEDPYQLELPALQSEVP---------KDSTHQWLDGSDCVLQAP
+Macaca_mulatta                QLRALPSENPYQLELPALQSEVP---------KDCTHQWLDSSDHVLQAP
+Callithrix_jacchus            QLRALPSEDPYQLELSTLQSEVL---------KDSTHQWLDGSDHVLQVP
+Bos_taurus                    QLRALPSEDPPQLEPPALQSEVP---------KDS-------LNPELQAA
+Pteropus_alecto               QLRGL-SEDPHQLELPALQPEVP---------KDS-------SDRELQAP
+Mus_musculus                  KLRALPSEDDHQPKPSALSSELP---------MDSTHQSLDSSEHMFLVS
+Ornithorhynchus_anatinus      RLRTVPPEPVSPQDASVSHLDPP---------AQEKEAVFLERMLNRSSG
+Pavo_muticus                  QIREFP--NKAWQAAPAVQEE-------VVLERLSPEPEDTSSLGSLNNQ
+Pavo_cristatus                QIREFP--NKAWQAAPTVQEE-------VVLERLSPEPEDTSSLGSLNNQ
+Gallus_gallus                 QIREFP--NKVWQAAPAVQEE-------VVLERLSPEPEDTS-LGSLN-Q
+Chelonia_mydas                QIREYPSDTAHFQAAAAQQAEGPETRGERTMEGLALESEMAPQPGSLN-H
+Microcaecilia_unicolor        QIRQFSN-DASLQDKPLGFVDD-----ADMQPEQELEQFAVELSQMMLMN
+Bufo_bufo                     QLREFPLRGGAVPAEANELEVR---LDKVVLDKSPLGPSQEPSLLDLSHQ
+                              ::*            .                                  
+
+Homo_sapiens                  GNTSCLLHY--------MPQAPSAEPPLEWP---FPDLFSEPLCRGP---
+Pan_troglodytes               GNTSCLLHY--------MPQAPSAEPPLEWP---FPDLFSEPLCRGP---
+Macaca_mulatta                GNSSCLLYY--------MPQAPSAEPPLEWP---FPDLFSEPLCRGP---
+Callithrix_jacchus            GNSSCLLHY--------MSQALRAERPLEWL---FPDLFSEPLCRDP---
+Bos_taurus                    SNSCCLFHL--------MPQAPRAEPPLQLP---LPDGFSGCSCPDS---
+Pteropus_alecto               GNS-CLFYH--------MPQALGTEPPMKLP---LPDPFSKSPRPDP---
+Mus_musculus                  SNFSCVLYH--------APQA---EQPLHWP---LWDLSSEMLFSDS---
+Ornithorhynchus_anatinus      ERPGPIVDD--------SPSASPGNSSSDPPGGGVEQRTPLPPCPSPGGN
+Pavo_muticus                  SQEEGQSPP-----KPDPRSAFNSNSSSDPPATAGSEVGPPQPQ-EQHSR
+Pavo_cristatus                SQEEGQSPP-----KPDPRSAFNSNSSSDPPATAGSEVGPPQPQ-EQHSR
+Gallus_gallus                 SREEGQSPP-----KPDPRSAFNGNSSSDPP--AGSELGHPQPQ-EQQSR
+Chelonia_mydas                SRDGGQSPP-----KAEHGSAINSNSSSDPPPGASSELGPPHQQPEQLPG
+Microcaecilia_unicolor        QTPEAKSLS-----KAESGSSLNSNSSADTPAPGTAELGPVPAG----PE
+Bufo_bufo                     ELHLEPSLQGAQNDTPEIQDVGTAESKPSINSNSSSDLDPKNQQGAMRQP
+                                                 .    :           :             
+
+Homo_sapiens                  --ILPLQAN-----LTRKGGWLPTGSP--SVILQDRYSG--
+Pan_troglodytes               --ILPLQAN-----LTRKGGWLPTGSP--CVILQDRYSG--
+Macaca_mulatta                --ILPLQAN-----LTRKGGWLPTGSP--SVILQDRYSG--
+Callithrix_jacchus            --ILLLQAN-----LTRKGVRLSTYSP--SVILQDRYSG--
+Bos_taurus                    --ISPLHAN-----LTREEGWLPTPSPT-SVILQGRYSG--
+Pteropus_alecto               --ILSLHAN-----LTREGEWVPAHSSI-CVILQGRHLG--
+Mus_musculus                  --NLLLQAN-----LSESEGWQPNHSPS-LVIFQGRYSG--
+Ornithorhynchus_anatinus      PSRPSSPVG-----GTKEMAWAAVATAAPSIVLQTWHSDEM
+Pavo_muticus                  RDALHSEVL--APWKDESQEWVERTTS---VVIQQHRTDEM
+Pavo_cristatus                RDALHSEVL--APWKDESQEWVERTTS---VVIQQHRTDEM
+Gallus_gallus                 RDALHSEVL--APWKDENQEWVERTTS---VVIQQHRTDEM
+Chelonia_mydas                KGPLHSAQP--SAWGAKKQEWVERTTS---VVIQPHRADEM
+Microcaecilia_unicolor        SGVLDMHVT--AAVTARKQDWPQQTTS---VIIQPRHSDEM
+Bufo_bufo                     AAAHRSEPPEAVPVIADKQVWREKGRS---VIISPVHSDEM
+                                               .        .   :::.    .  

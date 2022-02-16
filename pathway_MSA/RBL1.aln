@@ -1,0 +1,522 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Xenopus_tropicalis            ------------------------------------MQREETDTEASNSS
+Latimeria_chalumnae           ------------------------------------MQVGNMRGTEPGPE
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 ----------------------------------------MSRAEPLPEP
+Anas_platyrhynchos            -------------------------------------------MSLTEPP
+Chelonia_mydas                -------------------------------------------MSQKEPP
+Homo_sapiens                  -----------------------------------------MFEDKPHAE
+Pan_troglodytes               -----------------------------------------MFEDKPYAE
+Macaca_mulatta                MTKHPRNCKFSRALAQVVVGSAPGREKEVGGRGAPPAGPEGMFEDESHAE
+Callithrix_jacchus            -----------------------------------------MFEDEPHAE
+Bos_taurus                    -----------------------------------------MDEDDPHAE
+Equus_caballus                -----------------------------------------MFENEPHAE
+Pteropus_alecto               -----------------------------------------MFEDEPHAD
+Heterocephalus_glaber         -----------------------------------------MFEDAPHAE
+Mus_musculus                  -----------------------------------------MFEDEPHAE
+Rhinatrema_bivittatum         ------------------------------------------MPKLATGE
+Ornithorhynchus_anatinus      ---------------------------------------------MFEGG
+                                                                                
+
+Xenopus_tropicalis            DGGPGEAVQEQLETLCRELNLDQETGAETIRDFTRTWSTYSLEGEVKHWL
+Latimeria_chalumnae           QPGSESSVRDTLEWLCQELNMDERSGREALEAFRGIWDTYSLEGEVVHWL
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 QPQPELELGAAIERLCRELNLDAGSAAEALRDFTALRGTYSLEGDAQHWL
+Anas_platyrhynchos            PPSGAAEPGAAIERLCQELNLDAASAAEALRDFTALRGTYSLEGEALHWL
+Chelonia_mydas                AGEAQGSARAVIDRLCQDLNLDAASAAEALRDFTALRGTYSLEGEVVHWL
+Homo_sapiens                  GAAVVAAAGEALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVTHWL
+Pan_troglodytes               GAAVVAAAGEALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVTHWL
+Macaca_mulatta                GVAVVAAAGEALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVTHWL
+Callithrix_jacchus            GAAVVAAAGEALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVTHWL
+Bos_taurus                    GAAVVAAAGEALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVIHWL
+Equus_caballus                GAAVVAAAREALQALCQELNLDEGSAAEALDDFAAIRGKYSLEGEVIHWL
+Pteropus_alecto               GAAVVAAAGEVLQALCQELNLDEGSAAEALDDFTAIRGTYSLEGEVIHWL
+Heterocephalus_glaber         GAAVVAAAGEALQALCQELNLDEESAAEALDDFTAIRGNYSLEGEVIHWL
+Mus_musculus                  GAAAVAAAREALQALCQELNLDEGSAAEALDDFTAIRGNYSLEGEVIHWL
+Rhinatrema_bivittatum         IEQEDRAVAQALRILCQELNMDEETAAEAFSNFTIIWDTYTLEGEVGHWL
+Ornithorhynchus_anatinus      GDGAAASSSAVLRSLCQELNLDEGSAAEALGNFTAIRQTYSLEGDVVHWL
+                                                                                
+
+Xenopus_tropicalis            ACALYAACRKGVIPTVGKGIMEGNGVSLTRILRSAKLSLIQFFNKMKKWI
+Latimeria_chalumnae           ACALYVACRKSVVPTVGKGVMEGNGVSLTRILRTAKLSLIQFFNKMRKWM
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 ACALYAACRRSVLPTVGSGVMEGNCVSLTRILRSARLSLIQFFSKMKKWM
+Anas_platyrhynchos            ACALYVACRKSVLPTVGSGLMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Chelonia_mydas                ACALYVACRKSILPTVGSGLMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Homo_sapiens                  ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Pan_troglodytes               ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Macaca_mulatta                ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Callithrix_jacchus            ACSLYVACRKSVIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Bos_taurus                    ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Equus_caballus                ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFNKMKKWM
+Pteropus_alecto               ACSLYVACRKSIIPTVGKGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Heterocephalus_glaber         ACSLYVACRKSIIPTVGRGIMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Mus_musculus                  ACSLYVACRKSIIPTVGKGVMEGNCVSLTRILRSAKLSLIQFFSKMKKWM
+Rhinatrema_bivittatum         ACALYVACRKSVLPTVGRGIMEGNCVSLTRILRSAKLSLIQFFNKMKKWM
+Ornithorhynchus_anatinus      ACALYVACRKSLLPTVGKGVVEGNCVSLTRILRSVKLSLIQFFNKMKTWM
+                                                                                
+
+Xenopus_tropicalis            DMSNLPQEFRERVERLERNFEVATVIFKKFEPIFREIFQNPHEEPPR-LP
+Latimeria_chalumnae           DMSNLPQEFRARVERLERNFEVSTVIFKKFEPIFLDLFQSPHEDPPR-LQ
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 DMSNVPQEFRERVERLERNFEVSTVIFRKFEPIFLDIFQNPNEETLK-PQ
+Anas_platyrhynchos            DMSNLPQEFRERVERLERNFEVSTVIFKKFEPIFLDVFQNPFEETSK-PQ
+Chelonia_mydas                DMSDLPQEFRERMERLERNFEVSTVIFRKFEPIFLDVFQNPYEETPK-PQ
+Homo_sapiens                  DMSNLPQEFRERIERLERNFEVSTVIFKKYEPIFLDIFQNPYEEPPK-LP
+Pan_troglodytes               DMSNLPQEFRERIERLERNFEVSTVIFKKYEPIFLDIFQNPYEEPPK-LP
+Macaca_mulatta                DMSNLPQEFRERIERLERNFEVSTVIFKKYEPIFLDIFQNPYEEPPK-LL
+Callithrix_jacchus            DMSNLPQEFRERIERLERNFEVSTVIFKKFQPIFLDIFQNPYEKPPK-L-
+Bos_taurus                    DMSNLPQEFRERIERLERNFEVSTVIFKKFEPIFLDIFQNPYEEPPK-LP
+Equus_caballus                DMSNMPQEFRERIERLERNFEVSTVIFKKFEPIFLDIFQNPYEEPPK-LP
+Pteropus_alecto               DMSNLPQEFRERIERLERNFEVSTVIFKKFQPIFLDIFQNPYEEPSKLFP
+Heterocephalus_glaber         DMLNLPQEFRERIERLERNFEVSTVIFKKFEPIFLDIFQNPFEELPK-LP
+Mus_musculus                  DMSNLPQEFRERIERLERNFEVSTVIFKKFEPIFLDIFQNPYEEPPK-LP
+Rhinatrema_bivittatum         DMSNLSQEFRERVESLERNFEVSTVIFKKFEPIFLDIFQNPYEDPPK-LQ
+Ornithorhynchus_anatinus      DMTDLPGEFRERMGRLERNFEVSTVIFRKFEPVFLDVFRSPYEEPLR-AP
+                                                                                
+
+Xenopus_tropicalis            RSRKQRRLQCSAKDLFSFCWTLFVYSKGNFCLIGDDLVNSYHLLLCCLDL
+Latimeria_chalumnae           RSRKHRRVPCSVKDVFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 RSRKQRRVLCGVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Anas_platyrhynchos            RSRKQRRVPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Chelonia_mydas                RSRKQRRK-CSVKELFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Homo_sapiens                  RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Pan_troglodytes               RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Macaca_mulatta                RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Callithrix_jacchus            RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Bos_taurus                    RSRKQRRIPCSVKELFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Equus_caballus                RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Pteropus_alecto               RSRKQRRSPCSVKELFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Heterocephalus_glaber         RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Mus_musculus                  RSRKQRRIPCSVKDLFNFCWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Rhinatrema_bivittatum         RSRKQRRMPCSAKDLFNFFWTLFVYTKGNFRMIGDDLVNSYHLLLCCLDL
+Ornithorhynchus_anatinus      RSRKQRQIPCGVRDLFNFCWTLFAYTRGNFHTIGDDLVNSYHLLLCCLDL
+                                                                                
+
+Xenopus_tropicalis            IYAHVLQCPNKEDLLNPSFTAKLPALDPSS----EDAPCIIRALCELYDG
+Latimeria_chalumnae           VFANALKCPNRRDLLNPSFKGLPVDFCTAEYGLPEETPCIIDELCALHDG
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 VFANAILCPNRRDLLNPSFKGLPADFHAPEMKASEDPPCIIATLCELHDG
+Anas_platyrhynchos            VFANALLCPNRRDLLNPSFKGLPEDFHATEIKVSEDPPCIIATLCELHDG
+Chelonia_mydas                IFANALLYPDRRELLNPAFKGLPADFHTAEVKASEEPPCIIATLCELHDG
+Homo_sapiens                  IFANAIMCPNRQDLLNPSFKGLPSDFHTADFTASEEPPCIIAVLCELHDG
+Pan_troglodytes               IFANAIMCPNRQDLLNPSFKGLPSDFHTADFRASEEPPCIIAVLCELHDG
+Macaca_mulatta                IFANAIMCPNRQDLLNPSFKGLPSDFHTADFRASEEPPCIIAVLCELHDG
+Callithrix_jacchus            IFANAIMCPNRQDLLNPSFKGLPSDFHSADFRASEEPPCIIAVLCELHDG
+Bos_taurus                    IFANAIMCPNRQELLNPSFKGLPSNFQTADFRASEEPPCIIPVLCELHDG
+Equus_caballus                IFANAIICPNRRDLLNPSFKGLPSDFHTADFRASEEPPCIISVLCELHDG
+Pteropus_alecto               IFANAIICPNRRDLLNPSFKGLPSDFPNADFRAPEEPPCIIAILCELHDG
+Heterocephalus_glaber         VFANAIMCPNRQDLLNPSFKGLPSDFHTADFRASEEPPCIIAILCELHDG
+Mus_musculus                  IFANAIMCPNRRDLLNPSFKGLPSDFHAPDFKAAEEPPCIIAVLCDLHDG
+Rhinatrema_bivittatum         IYANVLLCPNRKDLLNPSFRALPTDP-AADCRPSEEPSCIISTLCELHDG
+Ornithorhynchus_anatinus      TYALAVSCPNRQDLLNPSFQGLPPDFGSAEFRAPARAPCIIAALCALHDG
+                                                                                
+
+Xenopus_tropicalis            IFVEAKGIKEHYFKPYISKLYDKKILKG---ACLLDVSSFTDNNKSLNKE
+Latimeria_chalumnae           LVVEAKGIKEHYFKPYVTKLFERKVLKGENLLGLLDVNCFTENNKSLNKE
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLCNFTENNKALNKE
+Anas_platyrhynchos            LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLCNFTENNKALNKE
+Chelonia_mydas                LMVEAKGIKEHYFKPYISKLFDRKILKG---DCLLDFCSFADNNKALNKE
+Homo_sapiens                  LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLSSFTDNSKAVNKE
+Pan_troglodytes               LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLSSFTDNSKAVNKE
+Macaca_mulatta                LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLSSFTDNSKAVNKE
+Callithrix_jacchus            LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLSSFTDNSKAVNKE
+Bos_taurus                    LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLCSFTDNSKAVNKE
+Equus_caballus                LLVEAKGIKEHYFKPYISKLFDRKILKG---DCLLDLSSFTDNSKAVNKE
+Pteropus_alecto               LLVEAKGIKEHYFKPYISKLFDRKILKG---ECLLDLSSFTDNSKAVNKE
+Heterocephalus_glaber         LLIEAKGIKEHYFKPYIAKLFDRKVLKG---ECLLDLSSFTDNSKAVNKE
+Mus_musculus                  LLVEAKGIKEHYFKPYISKLFDKKILKG---ECLLDLSSFTDNSKAVNKE
+Rhinatrema_bivittatum         LTVEAKGIKEHYFKPYISKLFDRKILKG---DCLLDFSSFIDNNKALNKE
+Ornithorhynchus_anatinus      LLVEAKGIKEYYFKPYVARLAHRKILKG---VCVPDPSGFAENSRAINKA
+                                                                                
+
+Xenopus_tropicalis            YEEYVLTKGDFDERVFLGVDAEEEIGSPRKFVVEFPMGICTPRKQMESNL
+Latimeria_chalumnae           YEEYVLTVGDFDERVFLGEDADEEIGTPRKCTPEPPVGKLSARMQVECNL
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 YEEYVLTVGDFDERVFLGADAEEEIGTPRKFPADLQVGKTAARAHVECHL
+Anas_platyrhynchos            YEEYVLTVGDFDERVFLGADAEEEIGTPRKFPADMPVGKTAARAHVECHL
+Chelonia_mydas                YEEYVLSVGDFDERVFLGADAEEEIGTPRKFAADVPMGKTTTRAHVECHL
+Homo_sapiens                  YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTRDTPLGKLTAQANVEYNL
+Pan_troglodytes               YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTRDTPLGKLTAQANVEYNL
+Macaca_mulatta                YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDXPLGKLTAQANVEYNL
+Callithrix_jacchus            YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDTSLGKMAAQANVEYNL
+Bos_taurus                    YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDGPLGKLTAQANVECNL
+Equus_caballus                YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDAPLGKLTAQANVECNL
+Pteropus_alecto               YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDTPLGKLTAQVNLECNL
+Heterocephalus_glaber         YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTGDTPLGKLTAQTNVECNL
+Mus_musculus                  YEEYVLTVGDFDERIFLGADAEEEIGTPRKFTADTPFGKLTSQASVECNL
+Rhinatrema_bivittatum         YEEYVLTVGDFDERVFLGEDAEEEIGTPRKFIAEMLAPNMTARMPMECSL
+Ornithorhynchus_anatinus      YEEYVLTVGDFDERVFLGAAAEEEIGTPARPPREPPGAGPGAGARGECRF
+                                                                                
+
+Xenopus_tropicalis            QQHFERKRSFAPSTPLTGRGYLKEEPTVITPVSSATQCVSRLQSMVAGLR
+Latimeria_chalumnae           QQHFDKTRSLAPSTPLTGRRFLKEEAAVVTPVSSATQSVSRLQSMVAGLR
+Pavo_muticus                  -----------------------------HPVTCLWLFLSLLP-------
+Pavo_cristatus                -----------------------------HPVTCLWLFLSLLP-------
+Gallus_gallus                 QQHFEKKRSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQNIVAGLK
+Anas_platyrhynchos            QQHFEKKRSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQNIVAGLK
+Chelonia_mydas                QQHFEKKKSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQNIVAGLK
+Homo_sapiens                  QQHFEKKRSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQSIVAGLK
+Pan_troglodytes               QQHFEKKRSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQSIVAGLK
+Macaca_mulatta                QQHFEKKRSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQSIVAGLK
+Callithrix_jacchus            QQHFEKKRSFAPSTPLTGRRYLREKEALITPVASATQSVSRLQSIVAGLK
+Bos_taurus                    QHHFEKKTSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQSIVAGLK
+Equus_caballus                QQHFEKKTSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQGIVAGLK
+Pteropus_alecto               QQHFAKKTSFAPSTPLTGRRYLREKEAVITPVASATQSVSRLQSIVAGLK
+Heterocephalus_glaber         QQHFEKKRSFAPSTPLTGRGYLREKETVITPVASATQSVSRLQTIVAGLK
+Mus_musculus                  QQHFEKKRSFAPSTPLTGRRYLQEKEAVTTPVASATQSVSRLQSIVAGLK
+Rhinatrema_bivittatum         QQHFNKKRSFAPSTPLTGRRYLKEKEAVITPVASATQSVSRLQSMVSGLK
+Ornithorhynchus_anatinus      RQHFEK--------------------------------------------
+                                                                                
+
+Xenopus_tropicalis            NAPSEQLIEVFKSCVRNPLENVLNIVRDIGRRFCHHYTQSTEDQPGSHID
+Latimeria_chalumnae           NTPSEQLLSIFKSCLRDPTETIVSRVKEMGEKFCHHYTQSSEDQPGSHMD
+Pavo_muticus                  -------VFSCRSCARSPAESITNRVREIGETFCHSYTQPTDELPGSHID
+Pavo_cristatus                -------VFSCRSCARSPAESITNRVREIGETFCHSYTQPTDELPGSHID
+Gallus_gallus                 NAPSELLMAIFESCARNPAESIVNRVREIGETFCRSYTQPTDELPGSHID
+Anas_platyrhynchos            NAPSEQLIAIFESCARSPMESITNRVKEIGETFCRSYTQSTDEQPGSHID
+Chelonia_mydas                NAPSEQLIAIFESCVRNPMESILNRVKEIGEAFCRSYTKSTDDQPGSHID
+Homo_sapiens                  NAPSDQLINIFESCVRNPVENIMKILKGIGETFCQHYTQSTDEQPGSHID
+Pan_troglodytes               NAPSDQLINIFESCVRNPMENIMKILKGIGETFCQHYTQSTDEQPGSHID
+Macaca_mulatta                NAPSDQLTNIFESCVRNPMENIMKILKGMGETFCQHYTQSTDEQPGSHID
+Callithrix_jacchus            NAPSEQLLNIFESCVRNPMENIMKILKGIGETFCQHYTQSTDEQPGSHID
+Bos_taurus                    NAPSEQLINIFESCMRNPMENIMKIVKGIGETFCQHYTQSTDEQPGSHID
+Equus_caballus                NAPSEQLINIFESCMRNPMENIMKIVKGIGETFCQHYTQSTDEQPGSHID
+Pteropus_alecto               NAPSEQLINIFESCMRNPMENIMKIVKGIGETFCQHYTQSTDEQPGSHID
+Heterocephalus_glaber         NAPSKQLTNIFESCMRNPMENIMKIVKGIGETFCQRYTQSTDEQPGSHID
+Mus_musculus                  SAPSEQLLNIFESCMRNPMGNIIKIVKGIGETFCQHYTQSTDKQPGSHID
+Rhinatrema_bivittatum         NAPSEQLINIFKSCVRDPTESIAQRIKNIGEIFCLNYTQSTDEQHGSHID
+Ornithorhynchus_anatinus      --------------------------------------------------
+                                                                                
+
+Xenopus_tropicalis            FAVNRWKLAEILYFKVLETIVVQESKRLHGKDLT----------------
+Latimeria_chalumnae           FAVNRLRLAEILYYKVLETVMVQETRRLHGKDMT----------------
+Pavo_muticus                  FAVNRLKLAEILYYKILETIMVQEMRRLHGKDMT----------------
+Pavo_cristatus                FAVNRLKLAEILYYKILETIMVQEMRRLHGKDMT----------------
+Gallus_gallus                 FAVNRLKLAEILYYKILETIMVQEMRRLHGKDMT----------------
+Anas_platyrhynchos            FAVNRLKLAEILYYKILETIMVQETRRLHGKDMT----------------
+Chelonia_mydas                FAVNRLKLAEILYYKILETIVVQETRRLHGKDMT----------------
+Homo_sapiens                  FAVNRLKLAEILYYKILETVMVQETRRLHGMDMS----------------
+Pan_troglodytes               FAVNRLKLAEILYYKILETVMVQETRRLHGMDMS----------------
+Macaca_mulatta                FAVNRLKLAEILYYKILETVMVQETRRLHGMDMS----------------
+Callithrix_jacchus            FAVNRLKLAEILYYKILETIMVQETRRLHGMDMS----------------
+Bos_taurus                    FAVNRLKLAEILYYKILETVMVQETRRLHGMDMS----------------
+Equus_caballus                FAVNRLKLAEILYYKILETIMVQETRRLHGMDMS----------------
+Pteropus_alecto               FAVNRLKLAEILYYKILETVMVQETRRLHGMDMS----------------
+Heterocephalus_glaber         FAINRLKLAEILYYKILETVMAQEARRLHGMDMS----------------
+Mus_musculus                  FAVNRLKLAEILYYKILETIMVQETRRLHGMDMS----------------
+Rhinatrema_bivittatum         FAINRLKLAEILYYKILDTIMVQETRRLYGKDMTHLEPMVTVPPEEWGKG
+Ornithorhynchus_anatinus      -----VIIIIIIIMMITESTVRQQRGTVP---------------------
+                                     :  *:   : :: : *:   :                      
+
+Xenopus_tropicalis            -----------------------------ALLEQDIFHQSLIACCLEIVL
+Latimeria_chalumnae           -----------------------------ALLEQEIFHCSLLACCLELVL
+Pavo_muticus                  -----------------------------ALLEQDVFHRSLMACCLEIVL
+Pavo_cristatus                -----------------------------ALLEQDVFHRSLMACCLEIVL
+Gallus_gallus                 -----------------------------ALLEQDVFHRSLMACCLEIVL
+Anas_platyrhynchos            -----------------------------ALLEQDVFHRSLMACCLEIVL
+Chelonia_mydas                -----------------------------ALLEQDIFHRSLMACCLEIVL
+Homo_sapiens                  -----------------------------VLLEQDIFHRSLMACCLEIVL
+Pan_troglodytes               -----------------------------VLLEQDIFHRSLMACCLEIVL
+Macaca_mulatta                -----------------------------VLLEQDIFHHSLMACCLEIVL
+Callithrix_jacchus            -----------------------------VLLEQDIFHRSLMACCLEIVL
+Bos_taurus                    -----------------------------VLLEQDIFHHSLMACCLEIVL
+Equus_caballus                -----------------------------VLLEQDIFHRSLMACCLEIVL
+Pteropus_alecto               -----------------------------VLLEQDIFHRSLMACCLEIVL
+Heterocephalus_glaber         -----------------------------VLLEQDIFHRSLMACCLEIVL
+Mus_musculus                  -----------------------------VLLEQDIFHKSLMACCLEIVL
+Rhinatrema_bivittatum         RYSINFGVSKKEDTLWPILDVKKISAAFQALLEQDIFHRSLMACCLEIVL
+Ornithorhynchus_anatinus      --------------------------------------------------
+                                                                                
+
+Xenopus_tropicalis            FAYSSPRTFPWTIEVLNLSAFYFYKVIEVFIRSEDGLSRDMVKHLNTIEE
+Latimeria_chalumnae           FAYSSQRIFPWVIEVLNLRPFYFYKVIEVIIRSEEGLSRDMVKHLNNIEE
+Pavo_muticus                  FAYSSPRTFPWVIEVLDLRPFYFYKVIEVLIRSEEGLSRDMVKHLNSIEE
+Pavo_cristatus                FAYSSPRTFPWVIEVLDLRPFYFYKVIEVLIRSEEGLSRDMVKHLNSIEE
+Gallus_gallus                 FAYSSPRTFPWIIEVLDLRPFYFYKVIEVLIRSEEGLSRDMVKHLNSIEE
+Anas_platyrhynchos            FAYSSPRTFPWIIEVLDLRPFYFYKVIEVLIRSEEGLSRDMVKHLNSIEE
+Chelonia_mydas                FAYSSLRTFPWIIEVLDLRPFYFYKVIEVLIRSEEGLSRDMVKHLNNIEE
+Homo_sapiens                  FAYSSPRTFPWIIEVLNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Pan_troglodytes               FAYSSPRTFPWIIEVLNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Macaca_mulatta                FAYSSPRTFPWIIEVLNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Callithrix_jacchus            FAYSSPRTFPWIIEILNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Bos_taurus                    FAYSSPRTFPWIIEVLNLRPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Equus_caballus                FAYSSPRTFPWIVEVLNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNGVEE
+Pteropus_alecto               FAYSSPRTFPWIIEVLNLRPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Heterocephalus_glaber         FAYSSPRTFPWIIEILNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Mus_musculus                  FAYSSPRTFPWIIEVLDLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Rhinatrema_bivittatum         FAYSSPRTFPWIIEFLSLRPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEE
+Ornithorhynchus_anatinus      ----SQRRAPGLVN------------------------------------
+                                  * *  *  ::                                    
+
+Xenopus_tropicalis            QILESRAWTSDSVLWVHLDAVDN-VPTCEEVIIPSNFETGNEAG-VGHLP
+Latimeria_chalumnae           QILESRAWSHDSALWCALDAADNKVPTCEEVMFPSNFETGSGAGGPAHLP
+Pavo_muticus                  QILESLAWTRDSALWTALQASENRVPTCEEVIFPNNFEASNGGSGLGHFP
+Pavo_cristatus                QILESLAWTRDSALWTALQASENRVPTCEEVIFPNNFEASNGGSGLGHLP
+Gallus_gallus                 QILESLAWTRDSALWTALQASENRVPTCEEVIFPNNFEASNGGSGLGHLP
+Anas_platyrhynchos            QILESLAWTRDSALWSALQASENRVPTCEEVIFPSNFEASNGGSGLGHLP
+Chelonia_mydas                QILESLAWTSDSALWKALQASENKVPTCEEVIYPSNFEASNGGSGLGHLP
+Homo_sapiens                  QILESLAWSHDSALWEALQVSANKVPTCEEVIFPNNFETGNGGNVQGHLP
+Pan_troglodytes               QILESLAWSHDSALWEALQVSANKVPTCEEVIFPNNFETGNGGNVQGHLP
+Macaca_mulatta                QILESLAWSHDSALWEALQVSANKVPTCEEVIFPNNFETGNGGNVQGHLP
+Callithrix_jacchus            QILESLAWSHNSALWEALQVSTNKVPTCEEVIFPNNFETGNGGNVQRHLP
+Bos_taurus                    QILESLAWSHDSALWEALQASENRVPTCEEVIFPNNFETGSGGNVQGHLP
+Equus_caballus                QILESLAWSHNSALWEALQASANKVPTCEEVIFPNNFETGNGGSIQGHLP
+Pteropus_alecto               QILESLAWSHDSALWEALQTSANKVPTCEEVIFPNNFETGNGGNVQGHLP
+Heterocephalus_glaber         QILESLAWSHNSALWEALLASGNKIPTCEEVIFPNNFETGNGGNVQGHLP
+Mus_musculus                  QILESLAWTNNSALWEALHASANRVPSCEEVIFPNNFEIGNGGNVQGHLP
+Rhinatrema_bivittatum         QILESWAWGHDSALWDVLQASENRVPSCEEVIFPSNFETGNEGNIQGHLP
+Ornithorhynchus_anatinus      --------------------------------------------------
+                                                                                
+
+Xenopus_tropicalis            MMPASPIVHPRLKEVRTDLGGSFRRDCQPLSPISVHDRYSSPAAGSAKRR
+Latimeria_chalumnae           MIPVSPIIHPRVKEMRTDLAVAYR-HVPPTSPLSVHDRYSSPAAGSAKRR
+Pavo_muticus                  MMPISPIVHPRLKEVRTDLGGSLRRDTQPLSPISVHERYSSPTAGSAKRR
+Pavo_cristatus                MMPISPIVHPRLKEVRTDLGGSLRRDTQPLSPISVHERYSSPTAGSAKRR
+Gallus_gallus                 MMPISPLVHPRVKEVRTDLGGSLRRDTQPLSPISVHERYSSPTAGSAKRR
+Anas_platyrhynchos            MMPVSPIVHPRVKEVRTDLGGTLRRDLQPLSPISVHERYSSPTAGSAKRR
+Chelonia_mydas                LMPVSPIVHPRLKEVRTDLGGSLRRDMQPLSPISVHERYSSPTAGSAKRR
+Homo_sapiens                  LMPMSPLMHPRVKEVRTDSG-SLRRDMQPLSPISVHERYSSPTAGSAKRR
+Pan_troglodytes               LMPMSPLMHPRVKEVRTDSG-SLRRDMQPLSPISVHERYSSPTAGSAKRR
+Macaca_mulatta                MMPMSPLMHPRVKEVRTDSG-SLRRDMQPLSPISVHERYSSPTAGSAKRR
+Callithrix_jacchus            MMPMSPLVHPRVKEVRTDSG-SLRRDMQPLSPIPVHERYSSPTAGSAKRR
+Bos_taurus                    MMPMSPLMHPRVKEVRTDSG-SLRKDMQPLSPISVHERYSSPTAGSAKRR
+Equus_caballus                MMPVSPLMHPRVKEVRTDSG-NLRRDIQPLSPISVHERYSSPTAGSAKRR
+Pteropus_alecto               MMPMSPLMHPRVKEVRTDSG-NLRRDMQPLSPISVHERYSSPTAGSAKRR
+Heterocephalus_glaber         MMPMSPIIHPRVKEVRTDSG-GLRRDIQPLSPISVHERYSSPTAGSAKRR
+Mus_musculus                  MMPMSPIIHPRVKEVRTDSG-SLRQDMQPLSPISVHERYSSPAAGSAKRR
+Rhinatrema_bivittatum         MMPISPIVHPRVKEVRTDLGGSCRQEFQPLSPISVHERYNSPTAGSAKRR
+Ornithorhynchus_anatinus      -----------------------RTSSQAVSAPSPPTLLSGGGGDPGTRR
+                                                     *    . *. .     ..  .....**
+
+Xenopus_tropicalis            LFGDDCPREQTVDK-----------ITTPDITRIRIALSP-------SPD
+Latimeria_chalumnae           LFGDDSPTENPLKKDNLGQTVGLKIVSTSNEATESVSVTPGQTVVTMATA
+Pavo_muticus                  LFGDDSPKEMQMEKI-LTEGTKLTIAPASSIAAENVSISPGQTVLTVTTA
+Pavo_cristatus                LFGDDSPKEMQMEKI-LTEGTKLTIAPASSIAAENVSISPGQTVLTVTTA
+Gallus_gallus                 LFGDDGPKEMQMEKI-LTEGTKLTIAPASSIAAENVSISPGQTVLTVTTA
+Anas_platyrhynchos            LFGDDSPKEMQMEKI-LTEGTKLTIAPASSIATENISVSPGQTVLTMTTA
+Chelonia_mydas                LFGDDSPKDMQVEKV-LSEGTKLKIAPASSVAAENVSLSTGQTILTMATA
+Homo_sapiens                  LFGEDPPKEMLMDKI-ITEGTKLKIAPSSSITAENVSILPGQTLLTMATA
+Pan_troglodytes               LFGEDPPKEMLMDKI-ITEGTKLKIAPSSSITAENTSILPGQTLLTMATA
+Macaca_mulatta                LFGEDPPKEMLMGKI-ITEGTKLKIAPSSSITAENVSILPGQTLLTMATA
+Callithrix_jacchus            LFGEDPPKEMLMDKI-ITEGKKLKIAPSSSIAAENISILPGQTLLTMAPG
+Bos_taurus                    LFGEDPPKEILMDRI-ITEGTKLKIAPSSSITAENISISPGHSLLTMATA
+Equus_caballus                LFGEDPPKEMFIDRV-ITEGTKLKIASSSSITAENLSISPGQSLLTMSTA
+Pteropus_alecto               LFGEDPPKEMLMDRI-ITEGTKLKIAPSLSITAENLSISPGQRLLTMTTA
+Heterocephalus_glaber         LFGEDPPKEMLMDKI-ITEGTKLKIAPS-SIIVENISVSPGQ-ILTMSTA
+Mus_musculus                  LFGDDPPKDTLMDKI-MAEGTKLKIAPS-SVTAESLSISPGQALLTMATT
+Rhinatrema_bivittatum         LFRDDSQKEFHVEKINTTEMTKLKISPTTNVANENASMSPQQMILTTAAT
+Ornithorhynchus_anatinus      RAGSRARVR-----------------------------------------
+                                 .                                              
+
+Xenopus_tropicalis            KTAQSIGQTIAIPVQGLANESVKSLFLPMKTSPPQS-----ENYVPVPLT
+Latimeria_chalumnae           TVTASTGQKVSIPVQGVANENGGITFIPINMSIAHQPKA-VECGVQVPLT
+Pavo_muticus                  TVAGKAGQKVTIPLHGITNELGGITLIPISMNLGQAPK--IEAQ------
+Pavo_cristatus                TVAGKAGQKVTIPLHGITNELGGITLIPISMNLGQAPK--IEAQ------
+Gallus_gallus                 TVAGKPGQKVTIPLHGIAGELGGITLIPIAMNLGQAPK--IEAQ------
+Anas_platyrhynchos            TVPGKAGQKVTIPLHGIAHEMGGITLIPISMNLGQPPK--MEAQ------
+Chelonia_mydas                TVTGTMGQKVTIPLHGIANDTGGITLIPISVNLSQQSK--VESHGQVPLT
+Homo_sapiens                  PVTGTTGHKVTIPLHGVANDAGEITLIPLSMNTNQESK--VKSP--VSLT
+Pan_troglodytes               PVTGTTGHKVTIPLHGVANDAGEITLIPISMNTNQESK--VKSP--VSLT
+Macaca_mulatta                PLTGTTGHKVIIPSHGVANDAAEIT-LPISMNTNQESK--VKSP--VSLT
+Callithrix_jacchus            PVTGTAGHKVTVPLHGVANDAGEIMLIPISMNTNQDSK--VKSP--VSLT
+Bos_taurus                    IVAGTTGHKVTIPLHGIANDAGEITLIPISMNTTQESK--VESP--VSLT
+Equus_caballus                IVTGTTGHKVTIPLHGIANDAGEITLIPISMNTTQESK--VESS--VSLT
+Pteropus_alecto               IVTETTGHKVTIPLHGIPNDAGEITLIPISMNTNQDSK--VKSP--ISLT
+Heterocephalus_glaber         TVAGTTGHKVTVPLHGVANDSGEITLIPISMNTSQEPK--IESP--VSLT
+Mus_musculus                  TVTGTTGRKVTVPLHGIANDAGEITLVPISMNPTQEST--AESP--VSLT
+Rhinatrema_bivittatum         TVTGTTGHRVAIPMTSIANDTTRITFIPISMNFSHSLK--SETGIQIPLT
+Ornithorhynchus_anatinus      ------------FFAGITAAAGGITLIPISGNPRPKAGGP------APLT
+                                             .:.        :*:  .                  
+
+Xenopus_tropicalis            AQALISPLTKRQLG-RMPESCPTSARKPKKTGSLALFFRKVYHLASVRLR
+Latimeria_chalumnae           AQALASTSPKRHH--INPGTQESAGSKPKKTGSLALFLRKVYHLASVRLR
+Pavo_muticus                  -------DPCHPQVNQDQEVHLSSGNKPKKTGSLALFYRKVYHLASVRLR
+Pavo_cristatus                -------DPCHPQVNQDQEVHLSSGNKPKKTGSLALFYRKVYHLASVRLR
+Gallus_gallus                 -------DPCHPQVNQDQEVHLSSGNKPKKTGSLALFYRKVYHLASVRLR
+Anas_platyrhynchos            -------APYHPQVSQAQEGHLSSGSKPKKTGSLALFYRKVYHLASVRLR
+Chelonia_mydas                AQALTGASPNHSRMNQAQEAHQSAGSKPKKTGSMALFYRKVYHLASVRLR
+Homo_sapiens                  AHSLIGASPKQTNLTKAQEVHSTGINRPKRTGSLALFYRKVYHLASVRLR
+Pan_troglodytes               AHSLIGASPKQTNLTKAQEVHSTGINRPKRTGSLALFYRKVYHLASVRLR
+Macaca_mulatta                AHSLIGASPKQTSLTKAQEVHSTGISRPKRTGSLALFYRKVYHMASVRLR
+Callithrix_jacchus            AHSLIGASPKQTNLTKAQEVHPTGISKPKRTGSLALFYRKVYHLASVRLR
+Bos_taurus                    AQSLIGASPKQTHLTKAQEVHPIGISKPKRTGSLALFYRKVYHLASVRLR
+Equus_caballus                AQSLIGTSPKQTHPSKAQEVHPTGVNKPKRTGSLALFYRKVYHLASVRLR
+Pteropus_alecto               AQSLIGSSPKQTYLAKAQEVHPTGISRPKRTGSLALFYRKVYHLASVRLR
+Heterocephalus_glaber         AQSLTSASPKQTYLIKTQEIHLTGINKPKRTGSLALFYRKVYHLASVRLR
+Mus_musculus                  AQSLIGTSPKQTHLTKAQDAHLTGVSKPKRTGSLALFYRKVYHLASVRLR
+Rhinatrema_bivittatum         AQALIS-SPKQYHVNKAQEPYPALGSKPKKTGSLALFFRKVYHLASVRLR
+Ornithorhynchus_anatinus      AQALAGASPKRARATEPPEAGGGGGGRPRRTGSLALFFRKVYRPAGVRLR
+                                      . :               :*::***:*** ****: *.****
+
+Xenopus_tropicalis            DLCLKLDVSNDLRRKIWTLFVYSLVHCTDLMKDRHLDQLLLCAVYIMAKI
+Latimeria_chalumnae           DLCLKLDVSVELRRKIWTCFEYSLVHCTDLMKDRHLDQLLLCAFYIMSKV
+Pavo_muticus                  DLCLKLDVSNDLRRKIWTCFEFTLVHCADLMKDRHLDQLLLCAFYIMAKV
+Pavo_cristatus                DLCLKLDVSNDLRRKIWTCFEFTLVHCADLMKDRHLDQLLLCAFYIMAKV
+Gallus_gallus                 DLCLKLDVSNDLRRKIWTCFEFTLVHCADLMKDRHLDQLLLCAFYIMAKV
+Anas_platyrhynchos            DLCLKLDVSNDLRRKIWTCFEFTLVHCADLMKDRHLDQLLLCAFYIMAKV
+Chelonia_mydas                DLCLKLDVSIELRRKIWTCFEFTLVHCTDLMKDRHLDQLLLCAFYIMAKV
+Homo_sapiens                  DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Pan_troglodytes               DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Macaca_mulatta                DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Callithrix_jacchus            DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Bos_taurus                    DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Equus_caballus                DLCVKLDVSNELLRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAQV
+Pteropus_alecto               DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Heterocephalus_glaber         DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Mus_musculus                  DLCLKLDVSNELRRKIWTCFEFTLVHCPDLMKDRHLDQLLLCAFYIMAKV
+Rhinatrema_bivittatum         DLCLKLDVSNELRRKIWTCFEYTLIHCTDLMKDRHLDQLLLCAFYIMAKV
+Ornithorhynchus_anatinus      DLCPKPDVSGDLRRKIWTRFEFTLVHCTDLLRDRHLDQLLLCAFYIVGKV
+                              *** * *** :* ***** * ::*:**.**::***********.**:.::
+
+Xenopus_tropicalis            SKEERLFHDIMKCYRNQPQANSHVYRSVLLKRIPQASGDETSTS--QDVE
+Latimeria_chalumnae           TKEDRTFQDIMKCYRSQPQAHSHVYRSVLLKKPRRETVANSSTDPEGDVE
+Pavo_muticus                  TKEERTFQDIMKSYRNQPQANSHVYRSVLLRNTSANVLLD-RNA-NQAVQ
+Pavo_cristatus                TKEERTFQDIMKSYRNQPQANSHVYRSVLLRNTSANVLLD-RNA-NQAVQ
+Gallus_gallus                 TKEERTFQDIMKSYRNQPQANSHVYRSVLLRNTSANVLLD-RNA-NQDVQ
+Anas_platyrhynchos            TKEERTFQDIMKSYRNQPQANSHVYRSVLLRNYSDDVLLD-KNK-NQDVE
+Chelonia_mydas                TREERTFQDIMKSYRNQPQANSNVYRSVLLKNSPKEVTSENTNS-NQDVE
+Homo_sapiens                  TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPREVVAYNKNI-NDDFE
+Pan_troglodytes               TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPREVVAYNKNI-NDDFE
+Macaca_mulatta                TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIXKRICAYNKNI-NXDFE
+Callithrix_jacchus            TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPREVVAYNKNI-NDDFE
+Bos_taurus                    TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPREVVAYSKNL-NGDFE
+Equus_caballus                TKEERTFQEIIKSYRNQPQANSHVYRSVLLKSIPTEVVAYNKNV-NGDFE
+Pteropus_alecto               TKEERTFQEIMKSYRNQPQANSHVYRSVLLR---KEIVAYSKKI-NGDFE
+Heterocephalus_glaber         TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPREIVTYNNDI-SDDFE
+Mus_musculus                  TKEERTFQEIMKSYRNQPQANSHVYRSVLLKSIPGGVVVYN-----GDCE
+Rhinatrema_bivittatum         TKEERTFQDIMKCYRSQPQANSHVYRSVLLKTVAEAVITNDANI-NLNVE
+Ornithorhynchus_anatinus      TREERTFQDIVKNYRSQPQADSHVYRSVLLTAGPGGAPAGDGSA-GQDVE
+                              ::*:* *::*:* **.****.*:*******                   :
+
+Xenopus_tropicalis            MTARNSSDSH---------------------PTPSG--------------
+Latimeria_chalumnae           MKDLDKDGNE---------------------QQPSRQPE-----------
+Pavo_muticus                  MTE-DSSVKTGNSL---------------GRSAPES--------------
+Pavo_cristatus                MTE-DSSVKTGNSS---------------GRSAPES--------------
+Gallus_gallus                 MTE-DSSVKTGNSL---------------GRSAAEN--------------
+Anas_platyrhynchos            MTE-DSSVKTGSSS---------------GRSAAEK--------------
+Chelonia_mydas                MTGGDSPGKVCLSP---------------VRSTPEN--------------
+Homo_sapiens                  MIDCDLEDAT---------------------KTPDC--------------
+Pan_troglodytes               MIDCDLEDAT---------------------KTPDC--------------
+Macaca_mulatta                MIDCDLEDAT---------------------KTPDC--------------
+Callithrix_jacchus            MIDCDLEDAA---------------------KTPDC--------------
+Bos_taurus                    MTDCDLEDAT---------------------KTPDC--------------
+Equus_caballus                MRDCDLEDAT---------------------KTPDC--------------
+Pteropus_alecto               MTDSDLEEAI---------------------KTPDC--------------
+Heterocephalus_glaber         MTDGDLEEAT---------------------KTTDC--------------
+Mus_musculus                  MTDGDIEDAT---------------------KTPNC--------------
+Rhinatrema_bivittatum         MEDSASDSNTCCSS---------------QRMPPES--------------
+Ornithorhynchus_anatinus      MADCGNNDRNNAAVRALATVPSAGVDAGKPGRTPSPVSSGESPGPGVGRT
+                              *                                ..               
+
+Xenopus_tropicalis            --------------------------------------------------
+Latimeria_chalumnae           --------------------------------------------------
+Pavo_muticus                  --------------------------------------------------
+Pavo_cristatus                --------------------------------------------------
+Gallus_gallus                 --------------------------------------------------
+Anas_platyrhynchos            --------------------------------------------------
+Chelonia_mydas                --------------------------------------------------
+Homo_sapiens                  --------------------------------------------------
+Pan_troglodytes               --------------------------------------------------
+Macaca_mulatta                --------------------------------------------------
+Callithrix_jacchus            --------------------------------------------------
+Bos_taurus                    --------------------------------------------------
+Equus_caballus                --------------------------------------------------
+Pteropus_alecto               --------------------------------------------------
+Heterocephalus_glaber         --------------------------------------------------
+Mus_musculus                  --------------------------------------------------
+Rhinatrema_bivittatum         --------------------------------------------------
+Ornithorhynchus_anatinus      VRSFDGVRGALAVCRAVTEARAPRADGWRHRNPGPGDARAPASGPLAKAA
+                                                                                
+
+Xenopus_tropicalis            --------------------FTGSPCGNAERGDLITFYNNVYVERVRSFA
+Latimeria_chalumnae           --------------------YSSEAEEEEDRGDLIQFYNTVYVMRVKSLA
+Pavo_muticus                  ----------------------STELGTEERGDLIKFYNAVYVGRVKSFA
+Pavo_cristatus                ----------------------STELGTEERGDLIKFYNAVYVGRVKSFA
+Gallus_gallus                 ----------------------STELGTEERGDLIKFYNAVYVGRVKSFA
+Anas_platyrhynchos            ----------------------SSESGTEERGDLITFYNAVYVGRVQSFA
+Chelonia_mydas                ----------------------SSESGKEERGDLIKFYNAVYVGRVKSFA
+Homo_sapiens                  ----------------------SSGPVKEERGDLIKFYNTIYVGRVKSFA
+Pan_troglodytes               ----------------------SSGPVKEERGDLIKFYNTIYVGRVKSFA
+Macaca_mulatta                ----------------------SSGPVKEERGDLIKFYNTIYVGRVKSFA
+Callithrix_jacchus            ----------------------SNGSVKEERGDLIKFYNTIYVGRVKSFA
+Bos_taurus                    ----------------------SSGPVKEERGDLIKFYNTIYVGRVKSFA
+Equus_caballus                ----------------------SIGPVKEERADLIKFYNTIYLGRVEAFA
+Pteropus_alecto               ----------------------SSGPVREERGDLIKFYNTVYVGRVKSFA
+Heterocephalus_glaber         ----------------------SSGPVKEERGDLIKFYNTIYVGRVKSFA
+Mus_musculus                  ----------------------SSEPVKEERGDLIKFYNTVYVGRVKSFA
+Rhinatrema_bivittatum         ----------------------SSEQRKEERGDLITFYNAIYVAKMKFFA
+Ornithorhynchus_anatinus      EFPPPAGTEAPGPPAPGGAPASPARPEKEERGDIIQFYNAVFVKRVKSFA
+                                                           :*.*:* *** ::: ::. :*
+
+Xenopus_tropicalis            LKFAST-QDHLMDAPPLSPFPSIKQQ----AISPRRVSQQHSIYVSPHKN
+Latimeria_chalumnae           LKYAVTSLEHGFEAPPLSPFPNMKPH----PVSPRRISQRHSVYVSPHKN
+Pavo_muticus                  LKYDITNQDHVMEAPPLSPFPSIKQQ----PVSPRRISQQHSVYVSPHKN
+Pavo_cristatus                LKYDITNQDHVMEAPPLSPFPSIKQQ----PVSPRRISQQHSVYVSPHKN
+Gallus_gallus                 LKYDITNQDHVMEAPPLSPFPSIKQQ----PVSPRRISQQHSVYVSPHKN
+Anas_platyrhynchos            LKYDITNQDHVMEAPPLSPFPNIKQQ----PVSPRRISQQHSVYVSPHKN
+Chelonia_mydas                LKYDVTNQDHVVEAPPLSPFPYIKQQ----PVSPRRISQQHSVYVSPHKN
+Homo_sapiens                  LKYDLANQDHMMDAPPLSPFPHIKQQ----PGSPRRISQQHSIYISPHKN
+Pan_troglodytes               LKYDLSNQDHMMDAPPLSPFPHIKQQ----PGSPRRISQQHSIYISPHKN
+Macaca_mulatta                LKYDLSNQDHVMDAPPLSPFPHIKQQ----PGSPRRISQQHSIYISPHKN
+Callithrix_jacchus            LKYDLSNQDHVMDVPPLSPFPHIKQQ----PGSPRRISQQHSIYVSPHKN
+Bos_taurus                    LKYDLSNQDHVMEAPPLSPFPHIKQQ----PGSPRRISQQHSIYVSPHKN
+Equus_caballus                LKYDLSNQDHVMEAPPLSPFPHIKQQ----PGSPRRISQQHSIYVSPHKN
+Pteropus_alecto               LKYDLSNQDHMMEAPPLSPFPHIKQQ----PGSPRRISQQHSVYVSPHKN
+Heterocephalus_glaber         LKYDLSNQDHVVDAPPLSPFPHIKQQ----PGSPRRISQQHSIYVSPHKN
+Mus_musculus                  LKYDLSNQDHIMDAPPLSPFPHIKQQ----PGSPRRISQQHSLYVSPHKN
+Rhinatrema_bivittatum         LKYSFSTQDHMVEALPLSPFPNIKQQ----PVSPRRVSQQHSIYVSPHKN
+Ornithorhynchus_anatinus      LKYGSSQRDPSAEAPSPSPFPTARRRRAPRRASPRRVSQRHPVYVSPHKN
+                              **:  :  :   :. . ****  : :      ****:**:*.:*:*****
+
+Xenopus_tropicalis            SGSLTPHTALLYKFNGSPSKSLQDINSMLKQ-EQRSRK------------
+Latimeria_chalumnae           GSCLTPRSAMLYKFNGSPSKSLRDINSMIKQGERMSRK------------
+Pavo_muticus                  GACLTPRTALLYKFNGSPSKSLKDINNMIKQGEHRSKK------------
+Pavo_cristatus                GACLTPRTALLYKFNGSPSKSLKDINNMIKQGEHRSKK------------
+Gallus_gallus                 GACLTPRTALLYKFNGSPSKSLKDINNMIKQGEHRSKK------------
+Anas_platyrhynchos            GACLTPRTALLYKFNGSPSKSLKDINNMIKQGEHRSKK------------
+Chelonia_mydas                GACLTPQTALLYKFNGSPSKSLKDINNMIKQGEHRSKK------------
+Homo_sapiens                  GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQRTKK------------
+Pan_troglodytes               GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQRTKK------------
+Macaca_mulatta                GSGLTPRSTLLYKFNGSPSKSLKEINNMIRQGEQRTKK------------
+Callithrix_jacchus            GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQRTKK------------
+Bos_taurus                    GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQRTKK------------
+Equus_caballus                GPGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQRTKK------------
+Pteropus_alecto               GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQKTKK------------
+Heterocephalus_glaber         GSGLTPRSALLYKFNGSPSKSLKDINNMIRQGDQRTKK------------
+Mus_musculus                  GAGLTPRSALLYKFNGSPSKSLKDINNMIRQGEQKTKK------------
+Rhinatrema_bivittatum         GSCLTPRTALLYKFNGSPSKSLKDINNMIKQGDQRSKK------------
+Ornithorhynchus_anatinus      GACLTPGTALTYQFHGSPSEVGTPTPGGAGRGRSRGSSGGGDPSPPAGSV
+                              .  *** ::: *:*:****:      .   :      .            
+
+Xenopus_tropicalis            --------RIIAIDSDT---DSPAKRLCQENDDALLKRLQDVVSERANH
+Latimeria_chalumnae           --------RAFTIDSDS---ESPAKRPCQDNEVALLKRLQDVVSERANH
+Pavo_muticus                  --------RAITIDSDT---EPPMKRLCQENDDVLLKRLQDVVSERANH
+Pavo_cristatus                --------RAITIDSDT---EPPMKRLCQENDDVLLKRLQDVVSERANH
+Gallus_gallus                 --------RAITIDSDT---ESPMKRLCQENDDVLLKRLQDVVSERANH
+Anas_platyrhynchos            --------RAITIDSDT---ESPTKRLCQENDDVLLKRLQDVVSERANH
+Chelonia_mydas                --------RAITIDSDS---ESPAKRLCQENDDVLLKRLQDVVSERANH
+Homo_sapiens                  --------RVIAIDSDA---ESPAKRVCQENDDVLLKRLQDVVSERANH
+Pan_troglodytes               --------RVIAIDSDA---ESPAKRVCQENDDVLLKRLQDVVSERANH
+Macaca_mulatta                --------RVIAIDSDA---ESPAKRVCQENDDVLLKRLQDVVSERANH
+Callithrix_jacchus            --------RAIAIDSDA---ESPAKRACQENDDVLLKRLQNVVSERASH
+Bos_taurus                    --------RAITIDGDA---ESPAKRLCQENDDVLLKRLQDVVSERANH
+Equus_caballus                --------RAIAIDGDV---ESPAKRLCQENDDVLLKRLQDVVSERANH
+Pteropus_alecto               --------RAIAIDGDT---ESPAKRLCQENDDILLKRLQDVVSERANH
+Heterocephalus_glaber         --------RAIAISGDA---ESPAKRLCQENDDVLLKRLQDVVSERANH
+Mus_musculus                  --------RVIAISGDA---DSPAKRLCQENDDVLLKRLQDVVSERANH
+Rhinatrema_bivittatum         --------RALTIDSDS---ESPEKRLCQEKDDVLLKRLQDVVSERANH
+Ornithorhynchus_anatinus      PRPLCDLGESVTAGGGAGGGRSPAERRCRENDAVLLRRLRDAVGGRADR
+                                      . .: ...     .* :* *::::  **:**::.*. **.:
