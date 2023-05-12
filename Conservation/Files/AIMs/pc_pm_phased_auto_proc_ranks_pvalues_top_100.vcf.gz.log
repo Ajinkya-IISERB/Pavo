@@ -1,0 +1,13 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf pc_pm_phased_auto.vcf.gz
+	--out pc_pm_phased_auto_proc_ranks_pvalues_top_100.vcf.gz
+	--positions pc_pm_phased_auto_proc_ranks_pvalues_top_100.pos
+
+Using zlib version: 1.2.11
+After filtering, kept 53 out of 53 Individuals
+After filtering, kept 100 out of a possible 876674604 Sites
+Run Time = 1150.00 seconds
